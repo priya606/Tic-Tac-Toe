@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
-Simple Tic-Tac-Toe game built by using python programming language
+
+Tic-Tac-Toe project built by using python programming language
